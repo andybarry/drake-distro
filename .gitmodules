@@ -25,3 +25,4 @@
 [submodule "snopt"]
 	path = snopt
 	url = https://github.com/RobotLocomotion/snopt.git
+	branch = master
